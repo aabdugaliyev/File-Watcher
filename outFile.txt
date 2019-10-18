@@ -1,0 +1,10 @@
+Some text in inFile, this shoud be in outFile
+making some newlines
+making some newlines
+making some newlines
+making some newlines
+
+another newlines
+another newlines
+END!
+
